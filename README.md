@@ -7,7 +7,7 @@
 I decided to do Luke Barousse's online course from you tube to learn the skills of Excel. This project in particulary seemed interesting as it dealt with the income of different data professionals from many different countries.
 
 ## Dashboard File
-[Checkout my work here](Excel_Project_Data_Analytics)
+[Checkout my work here](Salary_Data_Dashboard.xlsx)
 
 ### Excel Skilll Used
 - formulas
