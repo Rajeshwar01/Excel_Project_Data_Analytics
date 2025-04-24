@@ -9,7 +9,9 @@ I decided to do Luke Barousse's online course from you tube to learn the skills 
 ## Dashboard File
 [Checkout my work here](Salary_Data_Dashboard.xlsx)
 
+
 ### Excel Skilll Used
+
 - formulas
 - functions
 - charts
@@ -22,8 +24,8 @@ The dataset used for this project is part of the dataset provided in the course 
 - Skills
 
 ### Dashboard Build
- **1. Charts**
- **Data Science Job Salaries-Bar Chart**
+ **Charts**
+ **1. Data Science Job Salaries-Bar Chart**
 <img width="440" alt="Job Title and Median Salary" src="https://github.com/user-attachments/assets/f76ab20a-7057-483e-8e26-6f8465a914ba" />
 
 *Excel features used:*
@@ -35,17 +37,26 @@ The dataset used for this project is part of the dataset provided in the course 
  
  This charts quickly and easily shows the salary trends according to the job titles, noting that in general senior jobs and Engineers are higher paying roles as compared to data analysts.
  
-**Country Median Salary-Map Chart**
+**2. Country Median Salary-Map Chart**
 
 <img width="484" alt="Job Country and Platform" src="https://github.com/user-attachments/assets/8adecdd7-1ee4-44b0-ab2c-581954924821" />
+
 *Excel features used:*
 - Utilized the map feature of Excel to plot median salaries around the world.
 - Colour coded maps to immediately differntiate the differences among the job salaries in differnt countries.
 - Improved readability and easy understanding of job salary trends globally.
 *Insight Gained:*
 Disparities in salaries among the similat jobs in different countries.
-  
-- 
+
+**3. Job Type-Bar Chart**
+
+  <img width="389" alt="Job Type Count" src="https://github.com/user-attachments/assets/a925a9aa-c896-40fd-9acf-02e2a8144f98" />
+
+*Excel features used:*
+- Utilized Excel's bar chart feature to represent counts of different types of jobs.
+- Bar chart clearly shows the relationship between the salaries and different types of jobs.
+*Insight Gained:*
+This bar chart cleary tells that the full time jobs has higher slaries than the part time jobs.
 
 
   
