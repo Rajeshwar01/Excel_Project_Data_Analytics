@@ -23,7 +23,7 @@ The dataset used for this project is part of the dataset provided in the course 
 
 ### Dashboard Build
  **1. Charts**
-- Data Science Job Salaries
+ **Data Science Job Salaries-Bar Chart**
 <img width="440" alt="Job Title and Median Salary" src="https://github.com/user-attachments/assets/f76ab20a-7057-483e-8e26-6f8465a914ba" />
 
 *Excel features used:*
@@ -34,6 +34,19 @@ The dataset used for this project is part of the dataset provided in the course 
  *Insight Gained:*
  
  This charts quickly and easily shows the salary trends according to the job titles, noting that in general senior jobs and Engineers are higher paying roles as compared to data analysts.
+ 
+**Country Median Salary-Map Chart**
+
+<img width="484" alt="Job Country and Platform" src="https://github.com/user-attachments/assets/8adecdd7-1ee4-44b0-ab2c-581954924821" />
+*Excel features used:*
+- Utilized the map feature of Excel to plot median salaries around the world.
+- Colour coded maps to immediately differntiate the differences among the job salaries in differnt countries.
+- Improved readability and easy understanding of job salary trends globally.
+*Insight Gained:*
+Disparities in salaries among the similat jobs in different countries.
+  
+- 
+
 
   
 
