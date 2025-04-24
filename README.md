@@ -22,16 +22,18 @@ The dataset used for this project is part of the dataset provided in the course 
 - Skills
 
 ### Dashboard Build
-### Charts
+ **1. Charts**
 - Data Science Job Salaries
 <img width="440" alt="Job Title and Median Salary" src="https://github.com/user-attachments/assets/f76ab20a-7057-483e-8e26-6f8465a914ba" />
 
-### Excel features used
+*Excel features used:*
 - Utilized bar chart feature to represent the different job titles with their respective median salaries.
 - An easy and clear comparions of the different jobs and their median salaries.
 - Sorted job titles by descending salaries to make it more appealing.
 
- ### Insight Gained
+ *Insight Gained:*
+ 
  This charts quickly and easily shows the salary trends according to the job titles, noting that in general senior jobs and Engineers are higher paying roles as compared to data analysts.
+
   
 
