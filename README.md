@@ -58,7 +58,7 @@ Disparities in salaries among the similat jobs in different countries.
 *Insight Gained:*
 This bar chart cleary tells that the full time jobs has higher slaries than the part time jobs.
 
-## Formulas and Functions
+**Formulas and Functions**
 <img width="525" alt="Median Salary Formula" src="https://github.com/user-attachments/assets/57b94323-84d8-40d7-8c0d-386e175cbcd9" />
 
 *Excel skills used:*
@@ -67,6 +67,11 @@ This bar chart cleary tells that the full time jobs has higher slaries than the 
 - Nested If() statement to analyze an array and then utilized Median() function
 - The above formulat populates to return the median job salary based on job title, country and type of job.
 - Provides specific salary information.
+
+**Data Validation**
+- Utilized the data validation filtering for job titles, countries and job type.
+- User input is restriceted to predefined, validated values.
+- Incorrect and inconsistent enteries are prohibited.
   
 
 
