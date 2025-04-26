@@ -26,6 +26,7 @@ The dataset used for this project is part of the dataset provided in the course 
 ### Dashboard Build
  **Charts**
  **1. Data Science Job Salaries-Bar Chart**
+ 
 <img width="440" alt="Job Title and Median Salary" src="https://github.com/user-attachments/assets/f76ab20a-7057-483e-8e26-6f8465a914ba" />
 
 *Excel features used:*
@@ -59,6 +60,7 @@ Disparities in salaries among the similat jobs in different countries.
 This bar chart cleary tells that the full time jobs has higher slaries than the part time jobs.
 
 **Formulas and Functions**
+
 <img width="525" alt="Median Salary Formula" src="https://github.com/user-attachments/assets/57b94323-84d8-40d7-8c0d-386e175cbcd9" />
 
 *Excel skills used:*
@@ -69,9 +71,16 @@ This bar chart cleary tells that the full time jobs has higher slaries than the 
 - Provides specific salary information.
 
 **Data Validation**
+
+*Excel skills used:*
+
 - Utilized the data validation filtering for job titles, countries and job type.
 - User input is restriceted to predefined, validated values.
 - Incorrect and inconsistent enteries are prohibited.
+
+  ## Conclusion ##
+  I created the dashboard to showcase insights into the trends of the data job salaries depending upon job title, location and the skills involved. The used after interacting with this dashboard can make an informed decision about his/her career path as user will get the insight about what kind of skills he or she needs and how different jobs influence the income earned.
+  
   
 
 
